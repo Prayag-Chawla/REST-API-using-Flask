@@ -1,6 +1,6 @@
 # REST-API-using-Flask
 
-Now, what even is Flask, and RESR API?
+Now, what even is Flask, and REST API?
 
 Flask is a micro web framework written in Python that is well-suited for building REST APIs due to its flexibility and simplicity. REST APIs are a way to access web services using a set of operations. We can make Flask API more secure with basic authentication using Flask basic authentication. REST API is a basic architecture that many high-end APIs follow, it is basically a structure.
 
